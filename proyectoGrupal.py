@@ -1,2 +1,4 @@
-x=str(input("Ingrese aca un nombre"))
-print(x)
+nombre=str(input("Ingrese aca un nombre"))
+print("")
+print(nombre)
+print("***********")
